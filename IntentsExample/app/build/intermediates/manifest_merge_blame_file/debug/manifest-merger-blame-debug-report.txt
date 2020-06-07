@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shubh.intentsexample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:allowBackup="true"
+12-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.shubh.intentsexample.NewActivity" >
+21-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:12:9-21:20
+21-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:12:19-46
+22            <intent-filter>
+22-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:14:13-19:29
+23                <action android:name="android.intent.action.VIEW" />
+23-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:15:17-69
+23-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:15:25-66
+24                <action android:name="com.shubh.intentexample.NewActivity" />
+24-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:16:17-78
+24-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:16:25-75
+25
+26                <category android:name="android.intent.category.DEFAULT" />
+26-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:18:17-76
+26-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:18:27-73
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="com.shubh.intentsexample.MainActivity" >
+29-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:22:9-28:20
+29-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:22:19-47
+30            <intent-filter>
+30-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:24:17-69
+31-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:26:17-77
+33-->D:\Development\github-projects\Android-Codes\IntentsExample\app\src\main\AndroidManifest.xml:26:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
