@@ -64,11 +64,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btn_pro:
 
                 //call next activity by making changes in manifest file
-//                Intent intent6 = new Intent("com.example.intentdemo.NextActivity");
-//                startActivity(intent6);
+                Intent intent6 = new Intent("com.shubh.intentexample.NewActivity");
+                startActivity(intent6);
 
-                Intent intent = new Intent(Intent.ACTION_VIEW);
-                startActivity(intent);
+//                Intent intent = new Intent(Intent.ACTION_VIEW);
+//                startActivity(intent);
                 break;
 
         }

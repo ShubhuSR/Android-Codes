@@ -10,13 +10,13 @@
     tools:context=".NewActivity">
 
     <TextView
-        android:gravity="center"
-        android:textSize="24dp"
-        android:textStyle="bold"
-        android:textColor="@color/colorPrimaryDark"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello..:)..!"/>
+        android:gravity="center"
+        android:text="Hello..:)..!"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="24dp"
+        android:textStyle="bold" />
 
 
 </LinearLayout>
