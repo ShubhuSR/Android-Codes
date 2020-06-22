@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\Development\\github-projects\\Android-Codes\\FirebaseLoginDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Development\\github-projects\\Android-Codes\\FirebaseLoginDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "D:\\Development\\github-projects\\Android-Codes\\FirebaseLoginDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\Development\\github-projects\\Android-Codes\\FirebaseLoginDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Development\\github-projects\\Android-Codes\\FirebaseLoginDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Development\\github-projects\\Android-Codes\\FirebaseLoginDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "D:\\Development\\github-projects\\Android-Codes\\FirebaseLoginDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
