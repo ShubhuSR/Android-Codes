@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OTP Verification</string>
+    <string name="todo">TODO</string>
+    <string name="you_re_cute_can_i_have_your_number">You\'re cute. Can I have your number?</string>
+    <string name="full_name">Full name</string>
+    <string name="whats_your_name">Whats your name?</string>
+    <string name="phone_number">Phone number</string>
+    <string name="your_phone_number">Your Phone number!</string>
+    <string name="enter_the_4_digit_otp">Enter the 4 digit OTP</string>
+    <string name="didn_t_get_the_otp_resend_otp">Didn\'t get the OTP? RESEND OTP.</string>
+    <string name="let_s_go">Let\'s go!</string>
+</resources>

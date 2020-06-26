@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577631291110",
+    "firebase_url": "https://otp-verification-6a153.firebaseio.com",
+    "project_id": "otp-verification-6a153",
+    "storage_bucket": "otp-verification-6a153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577631291110:android:cad668f5330111e6021d27",
+        "android_client_info": {
+          "package_name": "com.shubh.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577631291110-nj62o0clkt9rk90hc5odgnjie6i43nnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFibgqatTlPkgV9jzMud_yvk0FurGbXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577631291110-nj62o0clkt9rk90hc5odgnjie6i43nnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
