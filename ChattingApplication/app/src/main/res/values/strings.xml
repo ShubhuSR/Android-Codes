@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chatting Application</string>
+    <string name="tab_text_camera" />
+    <string name="tab_text_chat">Chats</string>
+    <string name="tab_text_status">Status</string>
+    <string name="tab_text_call">Calls</string>
+    <string name="action_search">Search</string>
+    <string name="new_group">New group</string>
+    <string name="new_broadcase">New broadcase</string>
+    <string name="settings">Settings</string>
+</resources>
